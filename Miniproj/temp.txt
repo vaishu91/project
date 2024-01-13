@@ -1,0 +1,7 @@
+Lipstick	abc	101	250.000000
+Eyeliner	pqr	102	200.000000
+Foundationlmn	lmn	103	500.000000
+EyeShadow	kjh	104	200.000000
+LipGloss	sjy	105	400.000000
+Primer	hdj	106	300.000000
+Lipliner	xyz	107	200.000000

@@ -1,0 +1,405 @@
+***************************************************
+
+                WELCOME TO
+        COSMETIC PRODUCT MANAGEMENT SYSTEM
+
+***************************************************
+
+        Are you-
+============================================
+1.DATA MANAGER                  2.CUSTOMER
+
+Enter your choice:      1
+
+Enter product Name------>FacePowder
+
+Enter product Brand------>mji
+
+Enter product ID------>106
+
+Enter product cost------>500.00
+
+
+GO to Main Menu----->(y/n)y
+
+
+        Are you-
+============================================
+1.DATA MANAGER                  2.CUSTOMER
+
+Enter your choice:      2
+
+1.Sign Up               2.Login
+
+Enter your choice:      2
+
+        ======================= LOGIN =======================
+
+        Enter your User ID:     loop
+
+        Enter Password:         lop12
+
+        !! INVALID USER ID !!
+
+Want to Sign Up(y/n):
+n
+
+        ======================= LOGIN =======================
+
+        Enter your User ID:     loop
+
+        Enter Password:         lop12
+
+        !! INVALID USER ID !!
+
+Want to Sign Up(y/n):
+y
+
+Create New User ID:     loop
+Create Strong Password: loop12
+Confirm Password:       loop12
+
+
+GO to Main Menu----->(y/n)n
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      1
+
+________________________________________________
+Product         Brand   ID      Price
+________________________________________________
+Lipstick        abc     101     250.00
+Eyeliner        pqr     102     200.00
+Foundationlmn   lmn     103     500.00
+EyeShadow       kjh     104     200.00
+LipGloss        sjy     105     200.00
+FacePowdermji   mji     106     500.00
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      2
+
+Enter Product ID----->  101
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      2  
+
+Enter Product ID----->  102
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      2
+
+Enter Product ID----->  104
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      3
+
+________________________________________________
+Product         Brand   ID      Price
+________________________________________________
+Lipstick        abc     101     250.00
+Eyeliner        pqr     102     200.00
+EyeShadow       kjh     104     200.00
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      4
+
+
+Enter the Product ID----->      105
+product Found is>>>>>>>>
+LipGloss        sjy     105     200.00
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      2
+
+Enter Product ID----->  105
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      3
+
+________________________________________________
+Product         Brand   ID      Price
+________________________________________________
+Lipstick        abc     101     250.00
+Eyeliner        pqr     102     200.00
+EyeShadow       kjh     104     200.00
+LipGloss        sjy     105     200.00
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      5
+
+
+Enter the Product ID you want to be update----->        102
+Entar New ID:----->103
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      3
+
+________________________________________________
+Product         Brand   ID      Price
+________________________________________________
+Lipstick        abc     101     250.00
+Foundationlmn   lmn     103     500.00
+EyeShadow       kjh     104     200.00
+LipGloss        sjy     105     200.00
+
+
+want to cont.......(y/n)----->n
+PS D:\Miniproj> 
+
+***************************************************
+
+                WELCOME TO
+        COSMETIC PRODUCT MANAGEMENT SYSTEM
+
+***************************************************
+
+        Are you-
+============================================
+1.DATA MANAGER                  2.CUSTOMER
+
+Enter your choice:      2
+
+1.Sign Up               2.Login
+
+Enter your choice:      2
+
+        ======================= LOGIN =======================
+
+        Enter your User ID:     hdfji
+
+        Enter Password:         jhvfd23
+
+        !! INVALID USER ID !!
+
+Want to Sign Up(y/n):
+y
+
+Create New User ID:     user
+Create Strong Password: pass123
+Confirm Password:       pass123
+
+
+GO to Main Menu----->(y/n)n
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      1
+
+________________________________________________
+Product         Brand   ID      Price
+________________________________________________
+Lipstick        abc     101     250.00
+Eyeliner        pqr     102     200.00
+Foundationlmn   lmn     103     500.00
+EyeShadow       kjh     104     200.00
+LipGloss        sjy     105     200.00
+FacePowdermji   mji     106     500.00
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      2
+
+Enter Product ID----->  101
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      2
+
+Enter Product ID----->  103
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      2
+
+Enter Product ID----->  102
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      3
+
+________________________________________________
+Product         Brand   ID      Price
+________________________________________________
+Lipstick        abc     101     250.00
+Foundationlmn   lmn     103     500.00
+Eyeliner        pqr     102     200.00
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      4
+
+
+Enter the Product ID----->      105
+product Found is>>>>>>>>
+LipGloss        sjy     105     200.00
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      5
+
+
+Enter the Product ID you want to be update----->        103
+Entar New ID:----->105
+
+
+want to cont.......(y/n)----->y
+
+1.READ PRODUCT LIST:
+2.ADD PRODUCT:
+3.DISPLAY PRODUCT LIST
+4.SEARCH PRODUCTS:
+5.UPDATE PRODUCT LIST:
+------------------------------------------------------------
+
+Enter your choice:      3
+
+________________________________________________
+Product         Brand   ID      Price
+________________________________________________
+Lipstick        abc     101     250.00
+LipGloss        sjy     105     200.00
+Eyeliner        pqr     102     200.00
+
+
+want to cont.......(y/n)----->n
+PS D:\Miniproj> 
